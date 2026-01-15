@@ -37,3 +37,5 @@ El enfoque es **didáctico**, priorizando la comprensión del proceso y el razon
 ## ⚠️ Nota importante
 > Todo el contenido de este repositorio tiene fines exclusivamente **educativos** y se desarrolla únicamente en **entornos legales y controlados** proporcionados por DockerLabs.  
 > No se promueve el uso indebido de la información aquí presentada.
+> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
