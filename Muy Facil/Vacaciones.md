@@ -58,5 +58,17 @@ Tras ejecutar el método correspondiente, se obtiene acceso root de forma exitos
 
 <img width="386" height="92" alt="Pasted image 20251217122032" src="https://github.com/user-attachments/assets/dbba430b-6578-4a7a-9df9-6f86387ff8ff" />
 
+## 🏁 Conclusión
+
+Esta máquina pone a prueba la capacidad de enumeración y análisis del atacante, destacando la importancia de prestar atención a detalles aparentemente insignificantes, como mensajes ocultos en aplicaciones web.
+
+La vulnerabilidad principal se basa en:
+- Exposición de información sensible a través del servicio web
+- Uso de una versión vulnerable de SSH
+- Mala gestión de privilegios mediante configuración incorrecta de sudo
+
+La explotación exitosa requirió combinar múltiples vectores de ataque, desde enumeración web hasta escalada de privilegios usando GTFOBins, reforzando la importancia de una enumeración exhaustiva antes de intentar explotar el sistema.
+
+Este laboratorio refuerza buenas prácticas de seguridad como la actualización de servicios, restricción de permisos y eliminación de información sensible accesible al usuario final.
 
 
