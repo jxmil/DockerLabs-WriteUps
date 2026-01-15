@@ -20,6 +20,7 @@ Debido a la posibilidad de enumeración de usuarios en SSH, se decide realizar u
 <img width="871" height="587" alt="Pasted image 20251217111857" src="https://github.com/user-attachments/assets/0f7fcb16-e471-4744-8233-176fe695eff6" />
 
 Con las credenciales obtenidas, se establece conexión al sistema mediante SSH.
+
 <img width="757" height="287" alt="Pasted image 20251217112209" src="https://github.com/user-attachments/assets/3a6d8b6e-95d2-4307-8bed-72ce5c44c51b" />
 <br>
 
