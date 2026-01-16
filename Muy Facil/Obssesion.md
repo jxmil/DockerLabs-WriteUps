@@ -2,11 +2,12 @@
 
 ## 🔎 Enumeración
 
-Se realiza un escaneo de puertos con Nmap, identificando los siguientes servicios expuestos:
+Se realiza un escaneo de puertos con Nmap, identificando los siguientes servicios expuestos:<br>
+Como resultado, se detectan los siguientes puertos abiertos:
 
 <img width="842" height="513" alt="Pasted image 20251217123950" src="https://github.com/user-attachments/assets/b6ddc56a-4e6d-4122-b20f-dce58bfcf7fc" />
 
-Al interactuar con el servicio FTP, se detecta que permite acceso mediante el usuario anonymous, lo que representa una mala práctica de 
+Al interactuar con el servicio FTP, se detecta que permite acceso mediante el usuario **anonymous**, lo que representa una mala práctica de 
 seguridad.
 
 <img width="412" height="212" alt="Pasted image 20251217124314" src="https://github.com/user-attachments/assets/56786c5f-8e57-4748-9ac8-1a8f2931ef4f" />
@@ -47,7 +48,7 @@ Como resultado, se obtiene una combinación válida de usuario y contraseña, pe
 
 ## 🔐 Escalada de Privilegios
 
-Una vez dentro del sistema, se enumeran los privilegios del usuario y se identifica que puede ejecutar el binario vim como root sin necesidad de contraseña.
+Una vez dentro del sistema, se enumeran los privilegios del usuario y se identifica que puede ejecutar el binario **vim** como **root** sin necesidad de contraseña.
 
 <img width="990" height="175" alt="Pasted image 20251217171734" src="https://github.com/user-attachments/assets/3c26ed6a-2d3a-44f6-80e7-404ffe071187" />
 
