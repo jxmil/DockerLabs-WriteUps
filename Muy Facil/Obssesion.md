@@ -60,4 +60,16 @@ Tras ejecutar el método correspondiente, se obtiene acceso root exitosamente
 
 <img width="371" height="58" alt="Pasted image 20251217172125" src="https://github.com/user-attachments/assets/469323cb-7aee-4f49-ad33-80200ece1743" />
 
+## 🏁 Conclusión
+
+Esta máquina demuestra cómo una mala configuración en servicios básicos puede comprometer completamente un sistema.
+
+Las principales debilidades identificadas fueron:
+- Acceso anónimo habilitado en el servicio FTP
+- Exposición de información sensible a través de archivos internos
+- Reutilización del mismo usuario en múltiples servicios
+- Configuración insegura de sudo que permite ejecutar binarios como root
+
+El laboratorio refuerza la importancia de una correcta gestión de servicios, control de accesos y permisos mínimos, así como la necesidad de una enumeración exhaustiva antes y después del acceso inicial.
+
 
