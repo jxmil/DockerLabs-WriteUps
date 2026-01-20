@@ -37,3 +37,11 @@ Tras ejecutar el exploit, se establece una conexión exitosa al puerto 6200, obt
 Una vez establecida la conexión, se confirma que la shell obtenida corresponde al usuario root, comprometiendo completamente el sistema sin necesidad de escalada de privilegios adicional.
 
 <img width="442" height="100" alt="Pasted image 20260116131428" src="https://github.com/user-attachments/assets/559bcbcb-ebec-4a36-9e51-182f6312b33d" />
+
+## 🏁 Conclusión
+
+Este laboratorio demuestra el impacto crítico de ejecutar servicios desactualizados en entornos expuestos a internet.
+
+La vulnerabilidad CVE-2011-2523 en vsftpd 2.3.4 permitió la obtención de acceso remoto directo como root mediante una backdoor integrada, sin necesidad de credenciales válidas ni técnicas adicionales de escalada de privilegios.
+
+Esta máquina resalta la necesidad de mantener los servicios actualizados y aplicar un monitoreo constante sobre versiones vulnerables; solo así se previene que configuraciones obsoletas se conviertan en el punto de entrada para un atacante.
