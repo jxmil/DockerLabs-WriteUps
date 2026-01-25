@@ -25,12 +25,12 @@ Se realiza una enumeración de directorios, pero no se encuentra información re
 Dado que existe un formulario de autenticación, se prueba la posibilidad de una inyección SQL.
 Se prueba el formulario de login y se comprueba que es vulnerable a una inyección SQL, lo que permite acceder a la aplicación sin credenciales válidas:
 
-<img width="473" height="292" alt="Pasted image 20251218110151" src="https://github.com/user-attachments/assets/b06d8836-1767-43d1-a685-e33b1f34de80" />
-
 
 ```shell
 ' OR 1=1-- -
 ```
+<img width="473" height="292" alt="Pasted image 20251218110151" src="https://github.com/user-attachments/assets/b06d8836-1767-43d1-a685-e33b1f34de80" />
+
 La inyección resulta exitosa, permitiendo el acceso a la aplicación. Una vez dentro, la aplicación revela credenciales válidas, las cuales pueden ser reutilizadas.
 
 ## 🔐 Acceso al sistema
