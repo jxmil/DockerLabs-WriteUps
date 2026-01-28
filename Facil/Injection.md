@@ -53,7 +53,7 @@ Aplicando la técnica documentada, se ejecuta el binario env de forma que se obt
 
 <img width="642" height="82" alt="Pasted image 20251218112732" src="https://github.com/user-attachments/assets/4a60066b-fc38-42b2-b013-93161306d53a" />
 
-🏁 Conclusión
+## 🏁 Conclusión
 
 Este laboratorio demuestra cómo una vulnerabilidad clásica como la inyección SQL puede comprometer una aplicación web y facilitar el acceso inicial a un sistema.
 
