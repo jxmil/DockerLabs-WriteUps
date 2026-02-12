@@ -27,7 +27,7 @@ Con ayuda de **WhatWeb** se detecta que la versión instalada se encuentra desac
 
 <img width="1173" height="113" alt="Pasted image 20251229113537" src="https://github.com/user-attachments/assets/0909370c-2c95-44b6-a594-bc93014a57a5" />
 
-Posteriormente, se realiza enumeración con WPScan, logrando identificar un usuario válido:```Bicho```
+Posteriormente, se realiza enumeración con **WPScan**, logrando identificar un usuario válido:```Bicho```
 
 <img width="1016" height="900" alt="Pasted image 20251229115525" src="https://github.com/user-attachments/assets/bf9e0e5f-f633-4c43-9547-7a0294e455f7" />
 
