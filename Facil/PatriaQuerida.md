@@ -57,6 +57,8 @@ Tras cambiar de usuario y analizar los permisos, se observa que no hay privilegi
 
 <img width="392" height="81" alt="Pasted image 20260211125840" src="https://github.com/user-attachments/assets/7c34297b-bcd5-4cde-b9bd-03c59a8d2282" />
 
+## 🔐 Escalada de privilegios
+
 Se procede entonces a buscar binarios con permisos SUID en todo el sistema, encontrando que el binario python tiene este permiso activo
 
 <img width="613" height="298" alt="Pasted image 20260211130053" src="https://github.com/user-attachments/assets/249c6581-8be4-4461-b853-352f7a1e05d3" />
