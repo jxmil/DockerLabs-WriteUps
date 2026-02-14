@@ -67,7 +67,7 @@ Se consulta [GTFOBins](https://gtfobins.org/)
 
 <img width="977" height="392" alt="Pasted image 20260211130241" src="https://github.com/user-attachments/assets/2c0fd5c7-9d0d-4f7b-879f-7a011708cf90" />
 
-Ejecutando el binario con la opción ```-p``` para mantener privilegios elevados, se obtiene una shell con permisos de root.
+Ejecutando el binario con la opción ```-p``` para mantener privilegios elevados, se obtiene una shell con permisos de **root**
 
 <img width="888" height="121" alt="Pasted image 20260211130603" src="https://github.com/user-attachments/assets/2dfc5735-a2d6-48c9-a518-b028885c24b2" />
 
