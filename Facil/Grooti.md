@@ -183,7 +183,7 @@ Se crea un script que permite ejecutar:
 
 <img width="990" height="116" alt="Pasted image 20260304134934" src="https://github.com/user-attachments/assets/e148c96d-2e05-46c6-8f62-b7cc40186ce4" />
 
-Cuando el script es ejecutado con **bash -p**, se obtiene acceso comp **root**
+Cuando el script es ejecutado con **bash -p**, se obtiene acceso como **root**
 
 <img width="377" height="100" alt="Pasted image 20260304135026" src="https://github.com/user-attachments/assets/e4c9d9d1-f873-4aa6-89ac-556e91b2d2eb" />
 
