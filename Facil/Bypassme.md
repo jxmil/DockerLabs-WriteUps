@@ -77,8 +77,6 @@ Como usuario **conx**, se revisan las tareas programadas ```(cron)```
 
 Se identifica un archivo: ```/var/backups/backup.sh```
 
-Este script es ejecutado periódicamente
-
 <img width="538" height="102" alt="Pasted image 20260227134855" src="https://github.com/user-attachments/assets/492f8065-808c-4cc9-9ca9-62d373ec3ebc" />
 
 Dado que se tienen permisos de escritura sobre el archivo, se modifica su contenido agregando:
