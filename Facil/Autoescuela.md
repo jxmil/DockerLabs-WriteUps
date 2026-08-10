@@ -127,7 +127,7 @@ Finalmente, se recibe la conexión en el listener y se obtiene acceso como root,
 
 <img width="376" height="138" alt="Pasted image 20260810144506" src="https://github.com/user-attachments/assets/ec5d0a6b-094f-437f-ab66-720443312ea8" />
 
-🏁 Conclusión
+## 🏁 Conclusión
 
 Este laboratorio demuestra el impacto que puede tener la exposición de servicios de desarrollo y herramientas de debugging en entornos accesibles desde la red.
 
